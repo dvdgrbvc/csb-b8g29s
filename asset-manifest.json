@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dvdgrbvc.github.io/csb-b8g29s/static/css/main.d410cf4f.chunk.css",
+    "main.js": "https://dvdgrbvc.github.io/csb-b8g29s/static/js/main.a14e8f6e.chunk.js",
+    "main.js.map": "https://dvdgrbvc.github.io/csb-b8g29s/static/js/main.a14e8f6e.chunk.js.map",
+    "runtime-main.js": "https://dvdgrbvc.github.io/csb-b8g29s/static/js/runtime-main.2b5e6a6d.js",
+    "runtime-main.js.map": "https://dvdgrbvc.github.io/csb-b8g29s/static/js/runtime-main.2b5e6a6d.js.map",
+    "static/js/2.17005fe7.chunk.js": "https://dvdgrbvc.github.io/csb-b8g29s/static/js/2.17005fe7.chunk.js",
+    "static/js/2.17005fe7.chunk.js.map": "https://dvdgrbvc.github.io/csb-b8g29s/static/js/2.17005fe7.chunk.js.map",
+    "index.html": "https://dvdgrbvc.github.io/csb-b8g29s/index.html",
+    "static/css/main.d410cf4f.chunk.css.map": "https://dvdgrbvc.github.io/csb-b8g29s/static/css/main.d410cf4f.chunk.css.map",
+    "static/js/2.17005fe7.chunk.js.LICENSE.txt": "https://dvdgrbvc.github.io/csb-b8g29s/static/js/2.17005fe7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b5e6a6d.js",
+    "static/js/2.17005fe7.chunk.js",
+    "static/css/main.d410cf4f.chunk.css",
+    "static/js/main.a14e8f6e.chunk.js"
+  ]
+}
